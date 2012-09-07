@@ -16,7 +16,7 @@ public class Cliente {
     }
 
     public void setCodigo(Long codigo) {
-        this.codigo = codigo
+        this.codigo = codigo;
     }
 
     
